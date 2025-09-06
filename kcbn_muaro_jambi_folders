@@ -1,0 +1,127 @@
+KCBN_Muaro_Jambi/
+├── 📄 Deskripsi_Situs/
+│   ├── Sejarah.pdf
+│   ├── Arsitektur.pdf
+│   ├── Nilai_Kultural.pdf
+│   ├── Status_Hukum.pdf
+│   └── Pendaftaran_UNESCO.pdf
+├── 🗺️ Peta_Dan_Lokasi/
+│   ├── Peta_Geografis.pdf
+│   ├── Peta_Situs.pdf
+│   ├── Peta_Zonasi.pdf
+│   └── GIS_Data/
+│       ├── shapefile/
+│       └── geodatabase/
+├── 🏛️ Struktur_Bangunan_Dan_Candi/
+│   ├── Candi_Kedaton/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   ├── Rencana_Pemugaran.pdf
+│   │   └── 3D_Model/
+│   ├── Candi_Gumpung/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   ├── Rencana_Pemugaran.pdf
+│   │   └── 3D_Model/
+│   ├── Candi_Tinggi/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   ├── Rencana_Pemugaran.pdf
+│   │   └── 3D_Model/
+│   ├── Candi_Kembar_Batu/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   ├── Rencana_Pemugaran.pdf
+│   │   └── 3D_Model/
+│   ├── Candi_Gedong_I/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   ├── Rencana_Pemugaran.pdf
+│   │   └── 3D_Model/
+│   ├── Candi_Gedong_II/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   ├── Rencana_Pemugaran.pdf
+│   │   └── 3D_Model/
+│   ├── Candi_Astano/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   ├── Rencana_Pemugaran.pdf
+│   │   └── 3D_Model/
+│   └── Candi_Koto_Mahligai/
+│       ├── Deskripsi.pdf
+│       ├── Foto/
+│       ├── Rencana_Pemugaran.pdf
+│       └── 3D_Model/
+├── 🏺 Artefak_Dan_Koleksi/
+│   ├── Patung/
+│   │   ├── Foto/
+│   │   └── Deskripsi.pdf
+│   ├── Prasasti/
+│   │   ├── Foto/
+│   │   └── Transkripsi.pdf
+│   ├── Peralatan/
+│   │   ├── Foto/
+│   │   └── Deskripsi.pdf
+│   └── Koleksi_Lainnya/
+│       ├── Foto/
+│       └── Deskripsi.pdf
+├── 📜 Sastra_Lisan_Dan_Tradisi/
+│   ├── Cerita_Rakyat.pdf
+│   ├── Lagu_Tradisional.pdf
+│   ├── Upacara_Adat.pdf
+│   └── Rekaman_Audio/
+├── 🏘️ Permukiman_Kuno/
+│   ├── Desa_Muara_Jambi/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   └── Rencana_Pemugaran.pdf
+│   └── Desa_Lainnya/
+│       ├── Deskripsi.pdf
+│       ├── Foto/
+│       └── Rencana_Pemugaran.pdf
+├── 🌊 Sistem_Perairan/
+│   ├── Kanal/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   └── Rencana_Pemugaran.pdf
+│   ├── Kolam/
+│   │   ├── Deskripsi.pdf
+│   │   ├── Foto/
+│   │   └── Rencana_Pemugaran.pdf
+│   └── Danau/
+│       ├── Deskripsi.pdf
+│       ├── Foto/
+│       └── Rencana_Pemugaran.pdf
+├── 🌿 Keanekaragaman_Hayati/
+│   ├── Flora/
+│   │   ├── Daftar_Spesi.pdf
+│   │   └── Foto/
+│   ├── Fauna/
+│   │   ├── Daftar_Spesi.pdf
+│   │   └── Foto/
+│   └── Ekosistem/
+│       ├── Deskripsi.pdf
+│       └── Foto/
+├── 🎓 Pendidikan_Dan_Penelitian/
+│   ├── Program_Pendidikan.pdf
+│   ├── Hasil_Penelitian.pdf
+│   ├── Kolaborasi_Institusi.pdf
+│   └── Dataset/
+│       ├── LiDAR/
+│       ├── Drone/
+│       └── Survey_Lapangan/
+├── 🧭 Revitalisasi_Dan_Pemeliharaan/
+│   ├── Rencana_Pemugaran.pdf
+│   ├── Anggaran.pdf
+│   ├── Laporan_Progres.pdf
+│   └── Kontrak_Dan_Perizinan.pdf
+├── 📸 Dokumentasi/
+│   ├── Foto/
+│   ├── Video/
+│   └── Audio/
+└── 📢 Komunikasi_Dan_Publikasi/
+    ├── Siaran_Pers.pdf
+    ├── Artikel_Media.pdf
+    ├── Materi_Promosi.pdf
+    └── Website_SosialMedia/
